@@ -1,0 +1,7 @@
+numpy>=1.21.0
+scipy>=1.7.0
+mujoco>=2.3.0
+mujoco-python-viewer>=0.1.1
+matplotlib>=3.4.0
+tqdm>=4.62.0
+scipy>=1.7.0  # уже включен, содержит scipy.io для работы с .mat
