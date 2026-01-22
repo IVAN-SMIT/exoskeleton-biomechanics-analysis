@@ -33,7 +33,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/exoskeleton-biomechanics-analysis.git
+git clone https://github.com/IVAN-SMIT/exoskeleton-biomechanics-analysis.git
 cd exoskeleton-biomechanics-analysis
 
 # Установка зависимостей
