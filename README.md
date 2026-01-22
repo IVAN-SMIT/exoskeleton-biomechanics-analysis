@@ -79,3 +79,8 @@ python src/analysis/generate_report.py --input ./data/raw/ --output ./outputs/
 * Смирнов Иван [@IVAN_SMIT](t.me/@IVAN_SMIT)
 * Нагорный Леонид [@DRAMMATICPENNY59](t.me/@DRAMMATICPENNY59)
 * Гусаров Сергей [@ser4jk](t.me/@ser4jk)
+
+
+
+## Видео
+[Демонстрация работы алгоритма](https://youtu.be/QlMEJxhieVU?si=bianKmqGeDf0aYDg)
