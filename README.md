@@ -1,7 +1,6 @@
-# exoskeleton-biomechanics-analysis
-Проект по имитационному моделированию взаимодействия человека и экзоскелета нижних конечностей с использованием данных оптического захвата движения (motion capture) в среде MuJoCo
+# Биомеханический анализ экзоскелета нижних конечностей в имитационной среде MuJoCo
 
-# Biomechanical Analysis of Lower-Limb Exoskeleton Interaction
+Проект по имитационному моделированию взаимодействия человека и экзоскелета нижних конечностей с использованием данных оптического захвата движения (motion capture) в среде MuJoCo
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-2.3+-green.svg)](https://mujoco.org/)
